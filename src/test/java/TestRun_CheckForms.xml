@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="example suite 1" verbose="1" >
+    <test name="Regression suite 1" >
+        <classes>
+            <class name="HomePage_DiscussProjectForm.CORP39_StepOneValidationCheck"/>
+            <class name="HomePage_DiscussProjectForm.CORP41_StepTwoValidationCheck"/>
+            <class name="HomePage_DiscussProjectForm.CORP43_BackFromStepTwo"/>
+            <class name="HomePage_DiscussProjectForm.CORP43_BackFromStepTwo"/>
+            <class name="HomePage_LeaveMessageForm.CORP44_ValidationCheckForFields"/>
+            <class name="HomePage_LeaveMessageForm.CORP45_ValidationCheckForCheckBox"/>
+            <class name="ContactPage_LeaveMessageForm.CORP48_ValidationCheckForFields"/>
+            <class name="ContactPage_LeaveMessageForm.CORP49_ValidationCheckForCheckBox"/>
+            <class name="TeamPage_LeaveMessageForm.CORP46_ValidationCheckForFields"/>
+            <class name="TeamPage_LeaveMessageForm.CORP47_ValidationCheckForCheckBox"/>
+
+        </classes>
+    </test>
+</suite>
